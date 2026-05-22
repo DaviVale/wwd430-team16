@@ -50,6 +50,14 @@ web_modules/
 # Optional npm cache directory
 .npm
 
+# Jetbrains
+*.ipr
+*.iml
+*.iws
+.idea
+.ideaproject
+workspace.xml
+
 # Optional eslint cache
 .eslintcache
 
