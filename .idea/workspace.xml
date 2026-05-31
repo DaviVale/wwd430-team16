@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e63a935-2db4-453e-8a26-0a6467626c12" name="Changes" comment="Update workspace configuration for GitHub authentication; add server run configuration">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="1e63a935-2db4-453e-8a26-0a6467626c12" name="Changes" comment="Add next-auth dependency for GitHub authentication" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780223015102</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add next-auth dependency for GitHub authentication">
+      <option name="closed" value="true" />
+      <created>1780226076515</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780226076515</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +253,8 @@
     <MESSAGE value="initialize project structure with Next.js, Tailwind CSS, and ESLint configuration" />
     <MESSAGE value="Implement authentication with GitHub; update Header and LoginPage components" />
     <MESSAGE value="Update workspace configuration for GitHub authentication; add server run configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update workspace configuration for GitHub authentication; add server run configuration" />
+    <MESSAGE value="Add next-auth dependency for GitHub authentication" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add next-auth dependency for GitHub authentication" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
