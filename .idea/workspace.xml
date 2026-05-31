@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e63a935-2db4-453e-8a26-0a6467626c12" name="Changes" comment="Implement authentication with GitHub; update Header and LoginPage components">
+    <list default="true" id="1e63a935-2db4-453e-8a26-0a6467626c12" name="Changes" comment="Update workspace configuration for GitHub authentication; add server run configuration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,23 +68,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3563276543895157" />
-      <entry key="MS500" value="3.3058196461548737" />
-      <entry key="S2" value="5.033699719516255" />
-      <entry key="S5" value="5.5800894138162755" />
-      <entry key="S10" value="5.784152591357215" />
-      <entry key="S30" value="6.089912306462034" />
-      <entry key="S60" value="6.866753795217307" />
-      <entry key="M2" value="8.107103228687802" />
-      <entry key="M5" value="9.543778774678133" />
-      <entry key="M10" value="10.21007207894107" />
-      <entry key="M15" value="10.458585678968275" />
-      <entry key="M30" value="10.721611116614879" />
-      <entry key="H1" value="10.85882998338725" />
-      <entry key="H2" value="10.928914031733896" />
-      <entry key="H4" value="10.964330881540151" />
-      <entry key="D1" value="10.994037551838895" />
-      <entry key="W1" value="10.999147789791106" />
+      <entry key="MS100" value="1.3106319691512827" />
+      <entry key="MS500" value="2.0564788471590956" />
+      <entry key="S2" value="3.5904470975032696" />
+      <entry key="S5" value="4.736073355213875" />
+      <entry key="S10" value="5.302066083216832" />
+      <entry key="S30" value="5.7507924883700765" />
+      <entry key="S60" value="5.873582164958569" />
+      <entry key="M2" value="6.0147658982154155" />
+      <entry key="M5" value="7.88346497411315" />
+      <entry key="M10" value="11.543837972563765" />
+      <entry key="M15" value="14.083173888890006" />
+      <entry key="M30" value="18.75944609136154" />
+      <entry key="H1" value="23.512245359926812" />
+      <entry key="H2" value="27.368009543961115" />
+      <entry key="H4" value="29.90737609062262" />
+      <entry key="D1" value="32.44034038469615" />
+      <entry key="W1" value="32.91888050810655" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -104,23 +106,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.2663754476679825" />
-      <entry key="MS500" value="3.2636316052053553" />
-      <entry key="S2" value="5.018105498367408" />
-      <entry key="S5" value="5.573223043447353" />
-      <entry key="S10" value="5.780602357319582" />
-      <entry key="S30" value="6.088648999070966" />
-      <entry key="S60" value="6.865999002347974" />
-      <entry key="M2" value="8.106626150385912" />
-      <entry key="M5" value="9.543541609183979" />
-      <entry key="M10" value="10.209942740656832" />
-      <entry key="M15" value="10.458496778258814" />
-      <entry key="M30" value="10.721565250360722" />
-      <entry key="H1" value="10.858806680889721" />
-      <entry key="H2" value="10.92890228615318" />
-      <entry key="H4" value="10.964324984913976" />
-      <entry key="D1" value="10.994036565735678" />
-      <entry key="W1" value="10.999147648837331" />
+      <entry key="MS100" value="1.26427840830324" />
+      <entry key="MS500" value="2.019592295349746" />
+      <entry key="S2" value="3.5662081258968112" />
+      <entry key="S5" value="4.723217725984345" />
+      <entry key="S10" value="5.294929263025024" />
+      <entry key="S30" value="5.748233314076629" />
+      <entry key="S60" value="5.872278383879525" />
+      <entry key="M2" value="6.014101326534766" />
+      <entry key="M5" value="7.88313630397669" />
+      <entry key="M10" value="11.543612208331684" />
+      <entry key="M15" value="14.08299538591611" />
+      <entry key="M30" value="18.75933234768185" />
+      <entry key="H1" value="23.512176835180792" />
+      <entry key="H2" value="27.36797072072458" />
+      <entry key="H4" value="29.907355201169327" />
+      <entry key="D1" value="32.44033665963786" />
+      <entry key="W1" value="32.918879969412686" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -128,6 +130,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3DjzYilXQyuKDBOc2QOrKpTltqr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -226,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780221484321</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update workspace configuration for GitHub authentication; add server run configuration">
+      <option name="closed" value="true" />
+      <created>1780223015102</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780223015102</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +248,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize project structure with Next.js, Tailwind CSS, and ESLint configuration" />
     <MESSAGE value="Implement authentication with GitHub; update Header and LoginPage components" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement authentication with GitHub; update Header and LoginPage components" />
+    <MESSAGE value="Update workspace configuration for GitHub authentication; add server run configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update workspace configuration for GitHub authentication; add server run configuration" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
