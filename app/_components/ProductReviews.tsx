@@ -14,13 +14,13 @@ const initialReviews: Review[] = [
     id: 1,
     author: "Sarah",
     rating: 5,
-    comment: "Beautiful handmade product!",
+    comment: "High quality",
   },
   {
     id: 2,
     author: "Michael",
     rating: 4,
-    comment: "Great quality and fast delivery.",
+    comment: "I loved the product!",
   },
 ];
 
