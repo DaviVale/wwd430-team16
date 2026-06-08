@@ -1,0 +1,87 @@
+SHAKER CABINET DOORS WITH BALTIC BIRCH PLYWOOD PANELS
+======================================================
+
+FRAME (RAIL & STILE) WOOD
+-------------------------
+Use SOLID HARDWOOD for the frames (stiles and rails), NOT plywood.
+
+- Staining / clear finish: use SOLID BIRCH to match the Baltic birch panel.
+- Painting: use a stable, tight-grained hardwood:
+    * Soft maple - the go-to for paint-grade work; cheap, stable, smooth.
+    * Poplar - cheaper, paints fine, but softer and dents more easily.
+    * Hard maple - excellent, slight overkill.
+  Avoid open-grained woods (oak, ash, hickory) for paint - the grain
+  telegraphs through.
+
+- Do NOT use plywood for the frame itself - exposed edge plies and
+  joinery won't hold or look right.
+- Let the panel "float" in the groove (don't glue) is standard, though
+  plywood is stable enough that gluing it in for rigidity is also fine.
+
+
+FRAME THICKNESS
+---------------
+- Standard: 3/4" (about 19mm) thick stock - matches S4S hardwood and
+  is the default for cabinet door work.
+- Bump to 7/8" only for inset doors or unusually large doors needing
+  extra rigidity.
+
+
+FRAME WIDTH (the visible face)
+------------------------------
+- 2" to 2-1/4" - classic Shaker proportion, most common.
+- Up to 2-1/2" for larger doors to stay visually balanced.
+- Bottom rail sometimes wider (2-1/2" to 3") on tall doors for a
+  traditional look; equal-width members give a cleaner modern look.
+
+
+PANEL GROOVE WIDTH
+------------------
+Baltic birch is METRIC - "1/4" sheet is actually 6mm (~0.236"),
+about 1/64" under a true 1/4". A standard 1/4" groove leaves the
+panel loose and rattling.
+
+- ALWAYS caliper the actual sheet before cutting (thickness varies
+  between batches/suppliers).
+- Target a snug slip fit - panel slides in with light hand pressure.
+
+How to get the right width:
+  1. Dedicated undersized "plywood dado" bit/blade (6mm / 0.236" slot).
+  2. Two passes on the table saw, nudging the fence to dial in the fit.
+  3. Undersized dado/router - start at 7/32" and creep up.
+
+Quick reference:
+  Panel actual thickness   ->   Target groove width
+  6 mm (~0.236")                ~0.236"-0.240" (snug slip fit)
+  True 1/4" (0.250")            0.250"-0.255"
+
+Note: cope-and-stick bit sets cut a fixed ~1/4" groove, which is why
+6mm panels rattle in them - shim the panel or use a plywood-sized set.
+
+
+PANEL GROOVE DEPTH
+------------------
+- Standard: 3/8" deep on 3/4" stock.
+    * On cope-and-stick, the groove depth = the stub tenon/cope depth,
+      giving a strong joint and good glue surface.
+    * Leaves plenty of material on a 2"+ stile.
+- 1/4" acceptable on smaller doors or thinner stock (less strength).
+- Deeper than 3/8" is unnecessary.
+
+
+PANEL SIZING
+------------
+- Cut panel to the groove-to-groove dimension MINUS ~1/16" total
+  (~1/32" per side) so it doesn't bottom out hard.
+- This lets the frame joints close up tight rather than the panel
+  holding them apart. Plywood moves little, but the slight gap is
+  still good practice.
+
+
+SUMMARY
+-------
+- Frame: solid birch (stain) or soft maple/poplar (paint)
+- Frame stock: 3/4" thick, 2"-2-1/4" wide
+- Groove width: matched to actual 6mm panel (~0.236", snug)
+- Groove depth: 3/8"
+- Panel: cut ~1/16" undersize, float or glue (plywood is stable)

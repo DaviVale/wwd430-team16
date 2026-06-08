@@ -11,7 +11,7 @@ export default function SellPage() {
           Reach buyers who care about craft. Open a shop and start listing in minutes.
         </p>
         <Link
-          href="/login"
+          href="/account/seller"
           className="mt-8 inline-block rounded-md bg-[#28582e] px-6 py-3 font-medium text-[#f8f8f8] hover:opacity-90"
         >
           Get started
