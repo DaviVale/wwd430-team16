@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { signIn } from "@/auth";
 
 export default function LoginPage() {
@@ -25,30 +24,6 @@ export default function LoginPage() {
             Continue with GitHub
           </button>
         </form>
-
-        <div className="my-6 flex items-center gap-3 text-xs uppercase tracking-wide opacity-50">
-          <span className="h-px flex-1 bg-black/10" />
-          or
-          <span className="h-px flex-1 bg-black/10" />
-        </div>
-
-        <form className="grid gap-4">
-          <input type="email" placeholder="Email" className="rounded-md border border-black/10 px-3 py-2" />
-          <input type="password" placeholder="Password" className="rounded-md border border-black/10 px-3 py-2" />
-          <button
-            type="submit"
-            className="rounded-md bg-[#28582e] px-6 py-3 font-medium text-[#f8f8f8] hover:opacity-90"
-          >
-            Sign in
-          </button>
-        </form>
-
-        <p className="mt-6 text-sm opacity-70">
-          New here?{" "}
-          <Link href="/register" className="font-medium text-[#28582e]">
-            Create an account
-          </Link>
-        </p>
       </div>
     </div>
   );
